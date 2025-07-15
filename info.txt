@@ -1,0 +1,30 @@
+🛠️ Project: "Weather Dashboard App"
+🌤 Features:
+Search for a city and view real-time weather data
+
+Display temperature, humidity, wind speed, etc.
+
+Show a 5-day forecast
+
+Save last searched cities (localStorage)
+
+Optionally add dark mode toggle
+
+Progressive enhancements:
+
+Add location autocomplete
+
+Add geolocation (detect your city)
+
+Use charts for temperature trend (Chart.js)
+
+🔧 Tech Stack:
+Vanilla JavaScript (ES6) – for core logic
+
+HTML5 + CSS3 (or Tailwind if you prefer)
+
+Fetching from OpenWeatherMap API
+
+localStorage for saved searches
+
+Optional: Add Webpack & modular JS
